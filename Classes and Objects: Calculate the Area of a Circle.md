@@ -10,10 +10,13 @@ To write a Python program that calculates the **area of a circle** based on the 
    Area = pi *r^2 
 4. **Execute the program**: Create an object of the class and call the method with the radius value.
 
-## 🧾 Program
+## 🧾 Program:
 
-Add code here
 
 ## Output
 
+<img width="543" height="346" alt="image" src="https://github.com/user-attachments/assets/250c8da6-0d64-4664-ae13-dc223187b72f" />
+
+
 ## Result
+Thus the Python program that calculates the **area of a circle** based on the radius provided by the user is executed successfully.
