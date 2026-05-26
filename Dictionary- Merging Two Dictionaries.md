@@ -11,8 +11,18 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 
-Add code here
+```
+a={5:50,2:"two"}
+b={1:10,2:20,3:30}
+c=b.copy()
+c.update(a)
+print(c)
+```
 
 ## Output
 
+<img width="628" height="173" alt="image" src="https://github.com/user-attachments/assets/86a8b3b6-f544-4853-8398-5d97b48b1c02" />
+
+
 ## Result
+Thus the Python program that merges **two dictionaries** and combines their key-value pairs is executed successfully.
